@@ -40,8 +40,16 @@ Managed and trained a team of instructors to ensure a consistent level of qualit
 ---
 **University of Missouri, Columbia, MO**  
 Bachelors of Science, Business Administration, emphasis in Marketing/Advertising, Psychology Minor
-Microsoft Certified Professional (currently expired)
+
+**Certifications**  
+GWAS (currently expired, replaced by GWAPT)  
+Microsoft Certified Professional (currently expired)  
 Net+ (currently expired) 
 
 # Honors and Awards
 ---
+Best of Track and Best of Conference, HighEdWeb 2016 : [_Access Denied: Keeping Yourself Off an Attacker's Radar_](../access-denied/) 
+Selected to present at inaugural WPCampus conference, 2016  
+Lee Henson Award, 2016  
+Best of Track, HighEdWeb 2009 [_Cross-site Scripting: What Is It, and How Can You Protect Your Site from Becoming a Victim?_](https://prezi.com/yfvaquiauf2p/cross-site-scripting-xss-vulnerabilities/)   
+Best of Track and Best of Conference, HighEdWeb 2008 [_Cross-Site Scripting (XSS) Vulnerabilities_](http://2008.highedweb.org/presentations/TPR3.pptx) 
