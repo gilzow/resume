@@ -48,7 +48,7 @@ Net+ (currently expired)
 
 # Honors and Awards
 ---
-Best of Track and Best of Conference, HighEdWeb 2016 : [_Access Denied: Keeping Yourself Off an Attacker's Radar_](../access-denied/) 
+Best of Track and Best of Conference, HighEdWeb 2016 : [_Access Denied: Keeping Yourself Off an Attacker's Radar_](../../../access-denied/) 
 Selected to present at inaugural WPCampus conference, 2016  
 Lee Henson Award, 2016  
 Best of Track, HighEdWeb 2009 [_Cross-site Scripting: What Is It, and How Can You Protect Your Site from Becoming a Victim?_](https://prezi.com/yfvaquiauf2p/cross-site-scripting-xss-vulnerabilities/)   
